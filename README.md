@@ -1,2 +1,2 @@
 # Curso_ebac
-lsita de tarefas jquery
+lista de tarefas jquery
